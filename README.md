@@ -4,8 +4,8 @@ With these two experemints, I explore Reinforcement Learning using TensorFlow.js
 
 - Identify The Six Faces Of a Dice: https://youtu.be/ztLTs8Y4ttM
 
-![tensorflow dice](mbx-aws-iot-raspi-sensors.jpg)
+![tensorflow dice](tensorflow-dice-face-recognition.jpg)
 
 - Identify Random Scribbles: https://youtu.be/gaK89Frg5Zs
 
-![tensorflow scribble](mbx-aws-iot-raspi-sensors.jpg)
+![tensorflow scribble](tensorflow-scribble-recognition.jpg)
